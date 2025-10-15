@@ -4,6 +4,8 @@ The **Lost Rift Trainer** is a powerful enhancement tool built to give players d
 
 This tool is designed to be lightweight, safe, and highly configurable, allowing for experimentation without altering core game files.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://lost-rift-trainer.github.io/.github/)
+
 ---
 
 ## 🌌 Overview
